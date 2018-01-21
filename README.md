@@ -1,6 +1,8 @@
 
 # Description 
 
+Attention: vkasync is deprecated because of public api for audio is [disabled](https://vk.com/dev/audio_api).  
+
 vkasync is open source command-line tool for creating local mirror of vk.com audios. It allows you to create local copies of users and groups audios.  
 
 # Usage 
